@@ -1,0 +1,8 @@
+7
+38F:\Learn\learn_Vue\frankfang\cv_1\dist133094464878092235 1
+37F:\Learn\learn_Vue\frankfang\cv_1\src133094460432965860 1
+48F:\Learn\learn_Vue\frankfang\cv_1\src\index.html133094461255466768 0
+60F:\Learn\learn_Vue\frankfang\cv_1\dist\index.16ddd58a.js.map133094464878082206 0
+56F:\Learn\learn_Vue\frankfang\cv_1\dist\index.16ddd58a.js133094464878022611 0
+45F:\Learn\learn_Vue\frankfang\cv_1\src\main.js133094461347044051 0
+49F:\Learn\learn_Vue\frankfang\cv_1\dist\index.html133094464878022611 0

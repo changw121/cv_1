@@ -1,8 +1,16 @@
-7
-38F:\Learn\learn_Vue\frankfang\cv_1\dist133094464878092235 1
-37F:\Learn\learn_Vue\frankfang\cv_1\src133094460432965860 1
-48F:\Learn\learn_Vue\frankfang\cv_1\src\index.html133094461255466768 0
-60F:\Learn\learn_Vue\frankfang\cv_1\dist\index.16ddd58a.js.map133094464878082206 0
+15
+38F:\Learn\learn_Vue\frankfang\cv_1\dist133094944254777380 1
+44F:\Learn\learn_Vue\frankfang\cv_1\.gitignore133094933253462566 0
+37F:\Learn\learn_Vue\frankfang\cv_1\src133094939379351154 1
+47F:\Learn\learn_Vue\frankfang\cv_1\src\readme.md133094890784227181 0
+48F:\Learn\learn_Vue\frankfang\cv_1\src\index.html133094931535476849 0
 56F:\Learn\learn_Vue\frankfang\cv_1\dist\index.16ddd58a.js133094464878022611 0
-45F:\Learn\learn_Vue\frankfang\cv_1\src\main.js133094461347044051 0
-49F:\Learn\learn_Vue\frankfang\cv_1\dist\index.html133094464878022611 0
+45F:\Learn\learn_Vue\frankfang\cv_1\src\main.js133094932379321745 0
+55F:\Learn\learn_Vue\frankfang\cv_1\dist\cv_1.59712999.js133094923846886621 0
+59F:\Learn\learn_Vue\frankfang\cv_1\dist\cv_1.59712999.js.map133094923846916621 0
+60F:\Learn\learn_Vue\frankfang\cv_1\dist\index.16ddd58a.js.map133094464878082206 0
+56F:\Learn\learn_Vue\frankfang\cv_1\dist\index.18bc1fe4.js133094943461316886 0
+60F:\Learn\learn_Vue\frankfang\cv_1\dist\index.18bc1fe4.js.map133094943461376880 0
+56F:\Learn\learn_Vue\frankfang\cv_1\dist\index.de158e3a.js133094932380781798 0
+60F:\Learn\learn_Vue\frankfang\cv_1\dist\index.de158e3a.js.map133094932380801760 0
+49F:\Learn\learn_Vue\frankfang\cv_1\dist\index.html133094944254767416 0
